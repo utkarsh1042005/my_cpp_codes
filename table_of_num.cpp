@@ -8,7 +8,7 @@ int main(){
     cout<<"Enter value upto to which you want to find table"<<endl;
     cin>>val;
     for(int i=1;i<=val;i++){
-        cout<<num<<"x"<<i<<"="<<num*1<<endl;
+        cout<<num<<"x"<<i<<"="<<num*i<<endl;
     }
 
 }
